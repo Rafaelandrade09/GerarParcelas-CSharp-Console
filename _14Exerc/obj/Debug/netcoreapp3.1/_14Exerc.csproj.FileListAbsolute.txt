@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.exe
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.deps.json
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.runtimeconfig.json
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.dll
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\bin\Debug\netcoreapp3.1\_14Exerc.pdb
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.AssemblyInfo.cs
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.dll
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.pdb
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.genruntimeconfig.cache
+C:\Users\rafae\source\repos\_14Exerc\_14Exerc\obj\Debug\netcoreapp3.1\_14Exerc.GeneratedMSBuildEditorConfig.editorconfig
